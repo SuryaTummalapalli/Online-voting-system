@@ -21,4 +21,3 @@
 username  admin
 password  password
 
-Brought to you by: www.alphacodecamp.com.ng
